@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Spencer Friedman!
+
+---
+Informatics and Biochemistry student exploring the intersection of my two passions, looking to solve today's greatest health issues by harnassing the power of data. 
+
+I hope to use this GitHub page to display the story of my exploration of Informatics and the Life Sciences in a way that others can learn from the work that I've done. 
 
 <!--
 **ssfriedman1/ssfriedman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,6 +5,11 @@ Informatics and Biochemistry student exploring the intersection of my two passio
 
 I hope to use this GitHub page to display the story of my exploration of Informatics and the Life Sciences in a way that others can learn from the work that I've done. 
 
+---
+🧰 Toolbox
+
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "Python Logo" width= "50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt = "GitHub Logo" width= "50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt = "Jupyter Logo" width= "50" height="50" /> <img src= "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt = "Numpy Logo" width= "50" height="50" />
+
 <!--
 **ssfriedman1/ssfriedman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

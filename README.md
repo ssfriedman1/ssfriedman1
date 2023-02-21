@@ -15,7 +15,7 @@ I hope to use this GitHub page to display the story of my exploration of Informa
 - 🌱 I’m currently learning about all things data science and informatics as they pertain to the health sciences. 
 - 📫 How to reach me: spencer.friedman19@gmail.com or www.linkedin.com/in/spencer-friedman
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love running and creating tasty Plant Based meals. 
+- ⚡ Fun fact: I love running and creating Plant Based meals. 
 
 ---
 <!--
